@@ -6,7 +6,7 @@ public static int suma(int a, int b, int c)
     return resultado;
 }
 
-suma();
+suma(10,20,30);
 
 // Clase Coche
 
